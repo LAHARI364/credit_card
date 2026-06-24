@@ -21,6 +21,7 @@ Raw Data → EDA → Preprocessing → SMOTE → Model Training → Tuning → E
 ## Key Steps
 
 **1. Exploratory Data Analysis**
+-EDA performed on 200k+ rows of the dataset
 - Distribution analysis of all 30 features (Time, V1–V28, Amount)
 - Boxplots, violin plots, and correlation heatmap
 - Class imbalance visualization (~0.17% fraud rate)
